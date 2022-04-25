@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="333" height="230" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g>
+    <title>Layer 1</title>
+    <path fill="#fff" stroke="#000" d="m453.2275,47.10721l0.56913,0l0.17587,-0.38197l0.17587,0.38197l0.56913,0l-0.46044,0.23607l0.17588,0.38197l-0.46044,-0.23607l-0.46044,0.23607l0.17588,-0.38197l-0.46044,-0.23607z" id="svg_1"/>
+    <text transform="matrix(5.40612 0 0 4.95323 -90.3255 -223.895)" id="svg_4" style="fill: url(#svg_43); font-family: Arimo; font-size: 30px; font-style: italic; font-weight: 700; stroke: url(#svg_15); stroke-width: 0px; white-space: pre;" x="16.6608" y="76.3929">V</text>
+    <path stroke="#000" id="svg_7" d="m173.72472,104.37036l-16.27747,-24.78482l-62.75343,144.39497l66.48148,-92.2017l15.27314,22.49331l74.77378,-146.24005l-77.4975,96.33829z" stroke-width="0" fill="#fff200"/>
+    <text id="svg_5" style="fill: url(#svg_57); font-family: Arimo; font-size: 116px; font-style: italic; font-weight: 700; stroke: rgb(0, 0, 0); stroke-width: 0px; white-space: pre;" x="89.9815" y="157.111">olta</text>
+    <text text-anchor="start" font-family="'Archivo'" font-size="20" id="svg_58" y="184.193" x="133.964" stroke-width="0" stroke="#000" fill="#666666" style="white-space: pre; font-size: 20px;" transform="matrix(0.983126, 0, 0, 1, 4.94973, 0)">Servicios Eléctricos</text>
+  </g>
+  <defs>
+    <radialGradient cy="0.49689" cx="0.50391" spreadMethod="pad" id="svg_15">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </radialGradient>
+    <linearGradient spreadMethod="pad" y2="0" x2="0.51172" y1="1" x1="0.51563" id="svg_43">
+      <stop offset="0" stop-opacity="0.98828" stop-color="#7090bd"/>
+      <stop offset="0.5195" stop-opacity="0.98828" stop-color="#0b3d8a"/>
+      <stop offset="1" stop-opacity="0.98828" stop-color="#7090bd"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+    </linearGradient>
+    <linearGradient spreadMethod="pad" y2="0" x2="0.45313" y1="1" x1="0.45703" id="svg_57">
+      <stop offset="0" stop-opacity="0.99219" stop-color="#7090bd"/>
+      <stop offset="0.3633" stop-opacity="0.97656" stop-color="#375f91"/>
+      <stop offset="0.7266" stop-opacity="0.96484" stop-color="#013791"/>
+      <stop offset="1" stop-opacity="0.98438" stop-color="#7090bd"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0.99609" stop-color="#0000ff"/>
+    </linearGradient>
+    <style bx:fonts="Arimo">@import url(https://fonts.googleapis.com/css2?family=Arimo%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&amp;display=swap);</style>
+  </defs>
+</svg>

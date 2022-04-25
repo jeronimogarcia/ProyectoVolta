@@ -1,0 +1,10 @@
+.header__mainContainer{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    .header__imgContainer{
+        img{
+            width: 300px;
+        }
+    }
+}

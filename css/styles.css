@@ -1,0 +1,67 @@
+.header__mainContainer {
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue; }
+  .header__mainContainer .header__imgContainer img {
+    width: 300px; }
+
+.navBar__mainContainer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding: 7px 0px 7px 0px; }
+  .navBar__mainContainer .navBar__anchorContainer {
+    display: flex;
+    width: 500px;
+    justify-content: space-around; }
+    .navBar__mainContainer .navBar__anchorContainer a {
+      text-decoration: none;
+      font-size: 1.25rem;
+      font-weight: 500;
+      line-height: 1.2;
+      color: white; }
+
+.home__mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: white; }
+  .home__mainContainer .home__articleContainer {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    margin: 25px 0px 20px 0px;
+    padding: 0px 20px 0px 20px; }
+    .home__mainContainer .home__articleContainer .home__divFirst {
+      margin-bottom: 20px; }
+    .home__mainContainer .home__articleContainer .home__divThird {
+      margin-top: 20px; }
+      .home__mainContainer .home__articleContainer .home__divThird ol li {
+        font-size: 18px;
+        font-weight: 600; }
+      .home__mainContainer .home__articleContainer .home__divThird .home__imgContainer {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        bottom: 20px; }
+        .home__mainContainer .home__articleContainer .home__divThird .home__imgContainer img {
+          width: 240px; }
+    .home__mainContainer .home__articleContainer .home__divSecond {
+      margin-top: 95px; }
+    .home__mainContainer .home__articleContainer .home__divFourth {
+      margin-top: 40px; }
+  .home__mainContainer h2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+    background-image: linear-gradient(180deg, blue, #42a6af);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; }
+  .home__mainContainer p {
+    display: flex;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 600; }

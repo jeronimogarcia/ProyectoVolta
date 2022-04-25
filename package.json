@@ -1,0 +1,20 @@
+{
+    "name": "proyectovolta",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build-css": "node-sass --include-path scss scss/styles.scss css/styles.css",
+        "watch-css": "nodemon -e scss -x \"npm run build-css\""
+      },
+    "license": "MIT",
+    "devDependencies": {
+        "node-sass": "^7.0.1",
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.5",
+        "bootstrap": "^5.1.3"
+    }
+}

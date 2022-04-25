@@ -1,0 +1,140 @@
+<svg viewBox="-0.255 8.032 454.973 215.948" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient spreadMethod="pad" y2="0" x2=".512" y1="1" x1=".516" id="a">
+      <stop offset="0" stop-opacity=".988" stop-color="#7090bd"/>
+      <stop offset=".519" stop-opacity=".988" stop-color="#0b3d8a"/>
+      <stop offset="1" stop-opacity=".988" stop-color="#7090bd"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+    </linearGradient>
+    <linearGradient spreadMethod="pad" y2="0" x2=".453" y1="1" x1=".457" id="c">
+      <stop offset="0" stop-opacity=".992" stop-color="#7090bd"/>
+      <stop offset=".363" stop-opacity=".977" stop-color="#375f91"/>
+      <stop offset=".727" stop-opacity=".965" stop-color="#013791"/>
+      <stop offset="1" stop-opacity=".984" stop-color="#7090bd"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity="0" stop-color="0"/>
+      <stop offset="1" stop-opacity=".996" stop-color="#00f"/>
+    </linearGradient>
+    <radialGradient cy=".497" cx=".504" spreadMethod="pad" id="b">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <path fill="#fff" stroke="#000" d="M453.228 47.107h.569l.175-.382.176.382h.57l-.46.236.175.382-.46-.236-.46.236.175-.382-.46-.236z"/>
+  <path d="m38.765 55.753-11.308 20.64H22.49l-3.325-20.64h4.467l1.67 13.257q.118 1.07.198 2.05.08.982.125 1.847.337-.777.622-1.385.286-.608.49-1.062l7.516-14.707Z" transform="matrix(5.40612 0 0 4.95323 -90.326 -223.895)" style="white-space:pre" fill="url(#a)"/>
+  <path d="m173.725 104.37-16.278-24.784L94.694 223.98l66.481-92.202 15.273 22.493 74.774-146.24-77.497 96.338z" fill="#fff200"/>
+  <path d="M157.1 118.425q0 5.834-1.132 11.074-1.133 5.239-3.455 9.77-4.645 9.12-13.113 14.047-8.467 4.928-19.116 4.928-12.347 0-19.54-6.655-7.194-6.656-7.194-18.21 0-11.385 4.531-20.164 4.531-8.78 12.83-13.623 8.297-4.842 18.945-4.842 13.311 0 20.278 6.202 6.967 6.202 6.967 17.473Zm-16.652 1.19q0-13.99-11.781-13.99-6.4 0-10.252 3.398-2.549 2.266-4.39 6.202-1.84 3.937-2.803 8.553-.963 4.616-.963 8.92 0 7.364 2.945 11.017 2.945 3.654 8.836 3.654 3.172 0 5.692-.821 2.521-.822 4.39-2.408 3.682-3.172 5.806-9.685 2.124-6.514 2.52-14.84Zm54.592-46.559-16.37 84.055h-15.859l16.313-84.055Zm19.306 84.961q-7.024 0-10.875-3.313-3.852-3.314-3.852-9.43 0-4.192.907-8.893l5.777-29.793h-8.383l2.096-10.762h9.176l7.76-14.387h9.968l-2.719 14.387h11.442l-1.983 10.762H222.05l-5.89 30.302q-.624 3.285-.624 5.041 0 2.606 1.331 3.88 1.331 1.275 3.597 1.275 1.926 0 6.117-.737l-1.812 10.309q-4.588 1.36-10.422 1.36Zm67.853-.34q-5.664 0-8.722-2.379-3.059-2.378-3.059-6.287 0-1.076.085-1.982.085-.906.198-1.643h-.34q-4.757 7.364-9.402 10.11-4.644 2.748-11.328 2.748-7.93 0-12.66-4.73-4.729-4.73-4.729-12.15 0-10.478 7.222-15.83 7.222-5.353 23.42-5.636l10.82-.17q1.189-5.38 1.189-7.42 0-3.625-1.785-5.437-1.784-1.813-5.409-1.813-5.324 0-7.93 2.068-2.605 2.067-3.568 5.975l-14.896-1.756q1.926-8.156 8.694-12.404 6.769-4.248 17.984-4.248 11.724 0 17.19 4.135 5.466 4.135 5.466 12.574 0 2.096-1.36 8.893l-4.021 19.994q-.453 2.718-.453 4.078 0 2.322 1.586 3.002 1.586.68 2.888.68 1.87 0 3.512-.397l-.793 8.78q-2.379.906-4.814 1.075-2.436.17-4.985.17Zm-33.7-18.974q0 3.965 2.236 6.202 2.238 2.237 6.033 2.237 4.53 0 8.27-3.398 1.982-1.756 3.426-4.277 1.444-2.52 2.237-5.635l1.246-5.211h-9.175q-3.342.056-6.004.764-2.662.708-4.532 2.011-1.812 1.246-2.775 3.115-.963 1.87-.963 4.192Z" style="white-space:pre" fill="url(#c)"/>
+  <text font-family="'Archivo'" font-size="20" y="184.193" x="133.964" stroke-width="0" stroke="#000" fill="#666" style="white-space:pre" transform="matrix(.98313 0 0 1 4.95 0)">Servicios Eléctricos</text>
+</svg>

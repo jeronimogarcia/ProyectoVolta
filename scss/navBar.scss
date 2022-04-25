@@ -1,0 +1,18 @@
+.navBar__mainContainer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding: 7px 0px 7px 0px;
+  .navBar__anchorContainer {
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    a {
+      text-decoration: none;
+      font-size: 1.25rem;
+      font-weight: 500;
+      line-height: 1.2;
+      color: white;
+    }
+  }
+}
