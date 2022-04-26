@@ -1,0 +1,68 @@
+// Color de border
+
+$borderColor: white;
+
+// Contenedor del footer
+.footer__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 15px 0px 15px 0px;
+  // modificacion "contactanos"
+  h2 {
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  // posicion: mail, telefono, direccion
+  .footer__subContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: stretch;
+    flex-wrap: wrap;
+    .footer__anchorContainer {
+      position: relative;
+      bottom: 25px;
+    }
+    div {
+      text-align: center;
+      flex-direction: column;
+      text-transform: uppercase;
+      width: 210px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      position: relative;
+      top: 10px;
+      // titulos
+      h3 {
+        margin: auto;
+      }
+      // mail
+      a {
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        color: white;
+      }
+      p {
+        margin-bottom: 0px;
+        text-align: left;
+        padding-left: 34px;
+      }
+    }
+  }
+  .footer__seguinos {
+    h3 {
+      text-transform: uppercase;
+      padding: 0px 15px 0px 15px;
+    }
+    // posicion logos
+    div {
+      display: flex;
+      justify-content: space-around;
+      padding: 0px 20px 0px 20px;
+    }
+  }
+}
