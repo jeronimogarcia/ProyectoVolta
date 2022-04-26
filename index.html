@@ -16,11 +16,17 @@
       <img src="./images/layer.svg" alt="LogoVolta">
     </div>
   </header>
-  <nav class="navBar__mainContainer">
-    <div class="navBar__anchorContainer">
-      <a href="index.html">Home</a>
-      <a href="./pages/servicios.html">Servicios</a>
-      <a href="./pages/contactos.html">Contactos</a>
+  <nav class="navbar navbar-expand-lg  navbar-dark sticky-top nav2__container">
+    <button class="navbar-toggler nav2__button" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse nav2__divContainer" id="navbarNavAltMarkup">
+      <div class="navbar-nav nav2__divElements">
+        <a class="nav-item nav-link active mb-0 h5 element1" href="index.html">Home <span class="sr-only"></span></a>
+        <a class="nav-item nav-link mb-0 h5 element2" href="./pages/servicios.html">Servicios</a>
+        <a class="nav-item nav-link mb-0 h5 element3" href="./pages/contactos.html">Contactos</a>
+      </div>
     </div>
   </nav>
   <section class="home__mainContainer">
@@ -86,5 +92,15 @@
       </div>
     </div>
   </footer>
+  <script src="./js/bootstrap.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
 </body>
 </html>

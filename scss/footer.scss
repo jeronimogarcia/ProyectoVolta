@@ -25,6 +25,12 @@ $borderColor: white;
     .footer__anchorContainer {
       position: relative;
       bottom: 25px;
+      div{
+          img{
+            position: relative;
+            left: 30px;
+          }
+      }
     }
     div {
       text-align: center;

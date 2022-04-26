@@ -5,6 +5,19 @@
     .header__imgContainer{
         img{
             width: 300px;
+            position: relative;
+            left: 25px;
+        }
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .header__mainContainer{
+        .header__imgContainer{
+            img{
+                position: relative;
+                left: 45px;
+            }
         }
     }
 }
