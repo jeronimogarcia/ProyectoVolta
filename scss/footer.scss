@@ -73,3 +73,18 @@ $borderColor: white;
     }
   }
 }
+
+
+@media only screen and (max-width: 420px) {
+  .footer__container{
+    .footer__subContainer{
+      .footer__anchorContainer{
+        div{
+          img{
+            left:0px;
+          }
+        }
+      }
+    }
+  }
+}

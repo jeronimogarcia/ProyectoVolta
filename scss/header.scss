@@ -3,21 +3,11 @@
     justify-content: center;
     background-color: aliceblue;
     .header__imgContainer{
+        display: flex;
+        justify-content: center;
+        width: 250px;
         img{
-            width: 300px;
-            position: relative;
-            left: 25px;
-        }
-    }
-}
-
-@media only screen and (max-width: 992px) {
-    .header__mainContainer{
-        .header__imgContainer{
-            img{
-                position: relative;
-                left: 45px;
-            }
+            width: 200px;
         }
     }
 }
