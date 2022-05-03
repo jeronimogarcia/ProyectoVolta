@@ -47,8 +47,8 @@
 .home__mainContainer {
   display: flex;
   justify-content: center;
-  background-image: url("../images/ray.svg");
-  background-size: 200px;
+  background-image: url("../images/background2.svg");
+  background-size: 90px;
   background-repeat: repeat;
   background-color: white; }
   .home__mainContainer .home__articleContainer {
