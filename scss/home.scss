@@ -56,9 +56,15 @@
 //   }
 // }
 
+
+
 .home__mainContainer {
   display: flex;
   justify-content: center;
+  background-image: url("../images/ray.svg");
+  background-size: 200px;
+  background-repeat: repeat;
+  background-color: white;
   .home__articleContainer {
     display: flex;
     flex-direction: column;
