@@ -1,0 +1,110 @@
+.alquiler__section {
+  background-image: url("../images/background2.svg");
+  background-size: 90px;
+  background-repeat: repeat;
+  background-color: white;
+  .alquiler__articleAlquiler {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 40px;
+    .alquiler__title {
+      display: flex;
+      justify-content: center;
+      padding-top: 5px;
+      h1 {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 38px;
+        padding: 30px 40px 10px 40px;
+        border-bottom: black solid 2px;
+      }
+    }
+    .alquiler__hidroContainer {
+      margin-top: 10px;
+      .alquiler__hidroTitle {
+        h2 {
+          font-size: 28px;
+        }
+      }
+      .alquiler__hidroTabla {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 13px;
+        .alquiler__hidroImg {
+          display: flex;
+          width: 410px;
+          justify-content: flex-end;
+          img {
+            width: 292px;
+            box-shadow: 7px 10px #41464b;
+            border-radius: 5px;
+          }
+        }
+        .alquiler__lista {
+          width: 410px;
+          border: 2px solid;
+          padding: 10px;
+          box-shadow: 7px 10px #41464b;
+          border-radius: 5px;
+          background: white;
+          ul {
+            font-size: 18px;
+            font-weight: 500;
+            margin: 20px 20px 20px 20px;
+          }
+        }
+      }
+    }
+    .alquiler__trailerContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+      margin-bottom: 50px;
+      .alquiler__trailerTitle {
+        display: flex;
+        justify-content: center;
+        h2 {
+          font-size: 28px;
+        }
+      }
+      .alquiler__trailerImg {
+        margin-top: 5px;
+        img {
+          border-radius: 5px;
+          width: 1150px;
+        }
+      }
+      .alquiler__trailerlista {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        border: 2px solid black;
+        box-shadow: 7px 10px #41464b;
+        background: white;
+        .alquiler__ulContainerFirst {
+          font-size: 18px;
+          font-weight: 600;
+          width: 580px;
+          .alquiler__ulFirst {
+            padding: 10px 0px 0px 30px;
+          }
+        }
+        .alquiler__ulContainerSecond {
+          font-size: 18px;
+          font-weight: 600;
+          display: flex;
+          justify-content: center;
+          .alquiler__ulSecond {
+            padding: 10px 15px 0px 30px;
+          }
+        }
+      }
+    }
+  }
+}

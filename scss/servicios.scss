@@ -1,0 +1,117 @@
+.servicios__section {
+  background-image: url("../images/background2.svg");
+  background-size: 90px;
+  background-repeat: repeat;
+  background-color: white;
+  p {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  li {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .servicios__articleServicios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    .servicios__titleServicios {
+      display: flex;
+      justify-content: center;
+      padding-top: 5px;
+      h1 {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 38px;
+        padding: 30px 40px 10px 40px;
+        border-bottom: black solid 2px;
+        max-width: 90%;
+        width: 610px;
+      }
+    }
+    .servicios__containerServicios {
+      display: flex;
+      flex-direction: column;
+      width: 60%;
+      .servicios__div1 {
+        display: flex;
+        justify-content: flex-start;
+        padding-top: 30px;
+        .servicios__subDiv1 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          width: 70%;
+          text-align: left;
+          h3{
+            text-align: center;
+          }
+        }
+      }
+      .servicios__div2 {
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 50px;
+        .servicios__subDiv2 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-end;
+          width: 70%;
+          text-align: right;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .servicios__section {
+    li {
+      font-size: 16px;
+      font-weight: 600;
+    }
+    p {
+      font-size: 16px;
+      font-weight: 600;
+    }
+    .servicios__articleServicios {
+      .servicios__titleServicios {
+        width: 100%;
+        h1 {
+          font-size: 27px;
+          max-width: 80%;
+        }
+      }
+      .servicios__containerServicios {
+        width: 100%;
+        .servicios__div1 {
+          padding-top: 25px;
+          flex-direction: column;
+          align-content: center;
+          align-items: center;
+          .servicios__subDiv1 {
+            align-items: center;
+            width: auto;
+            text-align: justify;
+            padding-right: 20px;
+            padding-left: 6px;
+          }
+        }
+        .servicios__div2 {
+          flex-direction: column;
+          align-items: center;
+          padding-top: 25px;
+          .servicios__subDiv2 {
+            width: 100%;
+            align-items: center;
+            text-align: justify;
+            padding-right: 20px;
+            padding-left: 20px;
+          }
+        }
+      }
+    }
+  }
+}

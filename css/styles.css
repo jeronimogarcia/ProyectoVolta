@@ -46,11 +46,31 @@
 
 .home__mainContainer {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   background-image: url("../images/background2.svg");
   background-size: 90px;
   background-repeat: repeat;
   background-color: white; }
+  .home__mainContainer .home__bienvenidos {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px; }
+    .home__mainContainer .home__bienvenidos h1 {
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 38px;
+      padding: 30px 40px 10px 40px;
+      border-bottom: black solid 2px;
+      max-width: 90%;
+      width: 610px;
+      background-color: blue;
+      background-image: linear-gradient(180deg, blue, #42a6af);
+      background-size: 100%;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent; }
   .home__mainContainer .home__articleContainer {
     display: flex;
     flex-direction: column;
@@ -118,6 +138,8 @@
     font-weight: 600; }
 
 @media only screen and (max-width: 420px) {
+  .home__mainContainer .home__bienvenidos h1 {
+    max-width: 55%; }
   .home__mainContainer .home__articleContainer {
     width: 100%; }
     .home__mainContainer .home__articleContainer .home__divFirstContainer {
@@ -185,7 +207,7 @@
       text-transform: uppercase;
       letter-spacing: 1px;
       font-size: 38px;
-      padding: 30px 40px 0px 40px;
+      padding: 30px 40px 10px 40px;
       border-bottom: black solid 2px;
       max-width: 80%; }
   .contacto__container .contacto__informacion {
@@ -259,7 +281,7 @@
 
 @media only screen and (max-width: 670px) {
   .contacto__container .contacto__h2 h2 {
-    font-size: 23px; }
+    font-size: 27px; }
   .contacto__container
 .contacto__informacion
 .contacto__bloques
@@ -274,6 +296,186 @@ p {
     font-size: 14px; }
   .titulo__h3 {
     font-size: 24px; } }
+
+.servicios__section {
+  background-image: url("../images/background2.svg");
+  background-size: 90px;
+  background-repeat: repeat;
+  background-color: white; }
+  .servicios__section p {
+    font-size: 18px;
+    font-weight: 600; }
+  .servicios__section li {
+    font-size: 18px;
+    font-weight: 600; }
+  .servicios__section .servicios__articleServicios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; }
+    .servicios__section .servicios__articleServicios .servicios__titleServicios {
+      display: flex;
+      justify-content: center;
+      padding-top: 5px; }
+      .servicios__section .servicios__articleServicios .servicios__titleServicios h1 {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 38px;
+        padding: 30px 40px 10px 40px;
+        border-bottom: black solid 2px;
+        max-width: 90%;
+        width: 610px; }
+    .servicios__section .servicios__articleServicios .servicios__containerServicios {
+      display: flex;
+      flex-direction: column;
+      width: 60%; }
+      .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div1 {
+        display: flex;
+        justify-content: flex-start;
+        padding-top: 30px; }
+        .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div1 .servicios__subDiv1 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          width: 70%;
+          text-align: left; }
+          .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div1 .servicios__subDiv1 h3 {
+            text-align: center; }
+      .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div2 {
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 50px; }
+        .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div2 .servicios__subDiv2 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-end;
+          width: 70%;
+          text-align: right; }
+
+@media only screen and (max-width: 420px) {
+  .servicios__section li {
+    font-size: 16px;
+    font-weight: 600; }
+  .servicios__section p {
+    font-size: 16px;
+    font-weight: 600; }
+  .servicios__section .servicios__articleServicios .servicios__titleServicios {
+    width: 100%; }
+    .servicios__section .servicios__articleServicios .servicios__titleServicios h1 {
+      font-size: 27px;
+      max-width: 80%; }
+  .servicios__section .servicios__articleServicios .servicios__containerServicios {
+    width: 100%; }
+    .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div1 {
+      padding-top: 25px;
+      flex-direction: column;
+      align-content: center;
+      align-items: center; }
+      .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div1 .servicios__subDiv1 {
+        align-items: center;
+        width: auto;
+        text-align: justify;
+        padding-right: 20px;
+        padding-left: 6px; }
+    .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div2 {
+      flex-direction: column;
+      align-items: center;
+      padding-top: 25px; }
+      .servicios__section .servicios__articleServicios .servicios__containerServicios .servicios__div2 .servicios__subDiv2 {
+        width: 100%;
+        align-items: center;
+        text-align: justify;
+        padding-right: 20px;
+        padding-left: 20px; } }
+
+.alquiler__section {
+  background-image: url("../images/background2.svg");
+  background-size: 90px;
+  background-repeat: repeat;
+  background-color: white; }
+  .alquiler__section .alquiler__articleAlquiler {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 40px; }
+    .alquiler__section .alquiler__articleAlquiler .alquiler__title {
+      display: flex;
+      justify-content: center;
+      padding-top: 5px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__title h1 {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 38px;
+        padding: 30px 40px 10px 40px;
+        border-bottom: black solid 2px; }
+    .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer {
+      margin-top: 10px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTitle h2 {
+        font-size: 28px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTabla {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 13px; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTabla .alquiler__hidroImg {
+          display: flex;
+          width: 410px;
+          justify-content: flex-end; }
+          .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTabla .alquiler__hidroImg img {
+            width: 292px;
+            box-shadow: 7px 10px #41464b;
+            border-radius: 5px; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTabla .alquiler__lista {
+          width: 410px;
+          border: 2px solid;
+          padding: 10px;
+          box-shadow: 7px 10px #41464b;
+          border-radius: 5px;
+          background: white; }
+          .alquiler__section .alquiler__articleAlquiler .alquiler__hidroContainer .alquiler__hidroTabla .alquiler__lista ul {
+            font-size: 18px;
+            font-weight: 500;
+            margin: 20px 20px 20px 20px; }
+    .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+      margin-bottom: 50px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerTitle {
+        display: flex;
+        justify-content: center; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerTitle h2 {
+          font-size: 28px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerImg {
+        margin-top: 5px; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerImg img {
+          border-radius: 5px;
+          width: 1150px; }
+      .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerlista {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        border: 2px solid black;
+        box-shadow: 7px 10px #41464b;
+        background: white; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerlista .alquiler__ulContainerFirst {
+          font-size: 18px;
+          font-weight: 600;
+          width: 580px; }
+          .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerlista .alquiler__ulContainerFirst .alquiler__ulFirst {
+            padding: 10px 0px 0px 30px; }
+        .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerlista .alquiler__ulContainerSecond {
+          font-size: 18px;
+          font-weight: 600;
+          display: flex;
+          justify-content: center; }
+          .alquiler__section .alquiler__articleAlquiler .alquiler__trailerContainer .alquiler__trailerlista .alquiler__ulContainerSecond .alquiler__ulSecond {
+            padding: 10px 15px 0px 30px; }
 
 .footer__container {
   display: flex;

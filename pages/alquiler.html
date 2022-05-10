@@ -11,13 +11,11 @@
 </head>
 
 <body>
-
   <header class="header__mainContainer">
     <div class="header__imgContainer">
       <img src="../images/voltaLayer.svg" alt="LogoVolta">
     </div>
   </header>
-
   <nav class="navbar navbar-expand-lg  navbar-dark sticky-top nav2__container">
     <button class="navbar-toggler nav2__button" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
       aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,60 +25,71 @@
       <div class="navbar-nav nav2__divElements">
         <a class="nav-item nav-link mb-0 h5 element1" href="../index.html">Home <span class="sr-only"></span></a>
         <a class="nav-item nav-link mb-0 h5 element2" href="./servicios.html">Servicios</a>
-        <a class="nav-item nav-link mb-0 h5 element3" href="./alquiler.html">Alquiler</a>
-        <a class="nav-item nav-link active mb-0 h5 element4" href="./contactos.html">Contactos</a>
+        <a class="nav-item nav-link active mb-0 h5 element3" href="./alquiler.html">Alquiler</a>
+        <a class="nav-item nav-link mb-0 h5 element4" href="./contactos.html">Contactos</a>
       </div>
     </div>
   </nav>
 
-  <section>
-    <div class="contacto__container">
-      <div class="contacto__h2">
-        <h2>Información de contacto</h2>
+  <section class="alquiler__section">
+    <article class="alquiler__articleAlquiler">
+      <div class="alquiler__title">
+        <h1>Alquiler de Equipos</h1>
       </div>
-      <div class="contacto__informacion">
-        <div class="contacto__bloques">
-          <div class="contacto__svg">
-            <img src="../images/calling.svg" alt="Icono de Llamada">
+      <div class="alquiler__trailerContainer">
+        <div class="alquiler__trailerTitle">
+          <h2>Fabricación a medida y alquiler de obradores móviles de arrastre. Equipamiento completo</h2>
+        </div>
+        <div class="alquiler__trailerImg">
+          <img src="../images/trailer.jpg" alt="">
+        </div>
+        <div class="alquiler__trailerlista">
+          <div class="alquiler__ulContainerFirst">
+            <ul class="alquiler__ulFirst">
+              <li>Obrador móvil de un solo eje con freno eléctrico</li>
+              <li>Instalación eléctrica interior normalizada para trabajos industriales</li>
+              <li>Completamente equipado</li>
+              <li>Mesa de trabajo</li>
+              <li>Estanterías para bulonería</li>
+            </ul>
           </div>
-          <div class="contacto__texto">
-            <h3>Teléfono</h3>
-            <p>+(54) 9 341 6987556</p>
+          <div class="alquiler__ulContainerSecond">
+            <ul class="alquiler__ulSecond">
+              <li>Amoladora de banco</li>
+              <li>Taladro de banco </li>
+              <li>Aire Acondicionado</li>
+              <li>Apoyo para escaleras</li>
+              <li>Tablero portaherramientas</li>
+            </ul>
           </div>
         </div>
-        <div class="contacto__bloques">
-          <div class="contacto__svg">
-            <img src="../images/mail.svg" alt="Icono de Mail">
+      </div>
+      <div class="alquiler__hidroContainer">
+        <div class="alquiler__hidroTitle">
+          <h2>Contamos con dos Hidroelevadores de arrastre certificado con personal calificado, de 12 y 15mtrs
+          </h2>
+        </div>
+        <div class="alquiler__hidroTabla">
+          <div class="alquiler__hidroImg">
+            <img src="../images/hidro.jpg" alt="">
           </div>
-          <div class="contacto__texto">
-            <h3>Email</h3>
-            <p>jjgarcia@electricidadvolta.com</p>
+          <div class="alquiler__lista">
+            <ul>
+              <li>Hidroelevador giratorio doble brazo</li>
+              <li>Montado sobre tráiler</li>
+              <li>Altura total de trabajo: 15mtrs</li>
+              <li>Alcance horizontal grúa: 6m</li>
+              <li>Cilindros hidráulicos: 2</li>
+              <li>Rotación continua (360º)</li>
+              <li>Capacidad de carga en barquilla: 200kg</li>
+              <li>Peso del equipo: 2.200kg</li>
+              <li>Cuatro estabilizadores telescópicos</li>
+              <li>Doble comando: En barquilla y en base</li>
+            </ul>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-  <div>
-    <h2 class="titulo__h3">Principales empresas a las que brindamos servicio</h2>
-  </div>
-  <section class="cliente__container">
-    <div class="cliente__subcontainer">
-      <div>
-        <img src="../images/empresas/logoCargill.svg" alt="Logo Cargill">
-        <img src="../images/empresas/logoBunge.svg" alt="Logo PYG">
-        <img src="../images/empresas/logoBoortmalt.svg" alt="Logo Dreyfus">
-      </div>
-      <div>
-        <img src="../images/empresas/logoAgd.svg" alt="Logo AGD">
-        <img src="../images/empresas/logoAdm.svg" alt="Logo ypf">
-        <img src="../images/empresas/logoLoma2.png" alt="Logo Bunge">
-      </div>
-      <div>
-        <img src="../images/empresas/logoPampa.svg" alt="Logo Renova">
-        <img src="../images/empresas/logoSwift2.jpg" alt="Logo Total">
-        <img src="../images/empresas/logoDreyfus.svg" alt="Logo Boortmalt">
-      </div>
-    </div>
+    </article>
   </section>
 
   <footer>
@@ -103,7 +112,6 @@
       </div>
     </div>
   </footer>
-
   <script src="./js/bootstrap.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -114,6 +122,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
-
 </body>
+
 </html>
