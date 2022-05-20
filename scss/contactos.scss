@@ -63,13 +63,16 @@
 }
 
 // titulo de empresas
-.titulo__h3 {
+.titulo__empresas {
   background-color: #ddecf1;
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 0;
-  letter-spacing: 1px;
-  font-size: 32px;
+  padding-bottom: 20px;
+  .titulo__h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    font-size: 32px;
+  }
 }
 
 // clientes
@@ -149,7 +152,9 @@
     p {
     font-size: 14px;
   }
-  .titulo__h3 {
-    font-size: 24px;
+  .titulo__empresas {
+    .titulo__h2 {
+      font-size: 24px;
+    }
   }
 }

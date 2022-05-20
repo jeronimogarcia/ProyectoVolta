@@ -1,3 +1,14 @@
+// titulo azul
+
+.blueTitle {
+  background-color: blue;
+  background-image: linear-gradient(180deg, blue, #42a6af);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .alquiler__section {
   background-image: url("../images/background2.svg");
   background-size: 90px;
@@ -102,6 +113,82 @@
           justify-content: center;
           .alquiler__ulSecond {
             padding: 10px 15px 0px 30px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .alquiler__section {
+    .alquiler__articleAlquiler {
+      .alquiler__title {
+        h1 {
+          font-size: 27px;
+          max-width: 80%;
+        }
+      }
+      .alquiler__hidroContainer {
+        max-width: 100vw;
+        .alquiler__hidroTitle {
+          h2 {
+            text-align: center;
+            font-size: 18px;
+            padding: 0px 10px 0px 10px;
+          }
+        }
+        .alquiler__hidroTabla {
+          flex-direction: column;
+          align-items: center;
+          .alquiler__hidroImg {
+            justify-content: center;
+            padding: 0px 0px 30px 0px;
+            width: 100vw;
+            img {
+              width: 90vw;
+            }
+          }
+          .alquiler__lista {
+            padding: 0px;
+            width: 80vw;
+            border-radius: 0px;
+            ul {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+      .alquiler__trailerContainer {
+        max-width: 100vw;
+        margin-bottom: 30px;
+        .alquiler__trailerTitle {
+          h2 {
+            text-align: center;
+            font-size: 18px;
+            padding: 0px 10px 0px 10px;
+          }
+        }
+        .alquiler__trailerImg {
+          img {
+            width: 100vw;
+            border-radius: 0px;
+          }
+        }
+        .alquiler__trailerlista {
+          max-width: 92vw;
+          margin-bottom: 20px;
+          .alquiler__ulContainerFirst {
+            width: 60%;
+            .alquiler__ulFirst {
+              font-size: 14px;
+            }
+          }
+          .alquiler__ulContainerSecond {
+            width: 50%;
+            .alquiler__ulSecond {
+              font-size: 14px;
+            }
           }
         }
       }
