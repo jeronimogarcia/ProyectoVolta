@@ -36,9 +36,16 @@
 }
 
 // menu hamburguesa
+.nav2__button{
+  font-size: 20px;
+    padding: 3px 6px 3px 6px;
+    margin: 5px 0px 5px 0px;
+}
+
 .navbar-dark .navbar-toggler {
-  border-color: black;
+  border-color: yellow;
   background-color: black;
+  color: yellow;
 }
 
 // color de los links
@@ -54,6 +61,10 @@
   font-weight: bold;
 }
 
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0.15rem;
+}
+
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link:focus {
   color: yellow;
@@ -67,6 +78,7 @@
     .nav2__divContainer {
       .nav2__divElements {
         a {
+          margin-right: 0px;
           margin-left: 0px;
         }
       }
